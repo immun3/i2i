@@ -1,0 +1,17 @@
+primary immunodeficiency can be caused by:
+    genetic mutation
+    epigenetic mutation
+    ...
+secondary immunodeficiency can be caused by:
+    exposure to external agent
+    infection
+    physical trauma
+    ...
+immunosuppressive drugs can treat/prevent graft rejection but...
+    leave patient vulnerable to opportunistic infections
+
+IgE NOT assoc. w/:
+    allergy
+    phylaxis*
+    hypersensitivity
+    histamines
